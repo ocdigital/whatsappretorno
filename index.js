@@ -11,7 +11,7 @@ const bancofirebird = '192.168.50.1:/opt/firebird/BASE_JAGUARIUNA.FDB'
 
 var options = {};
 
-options.host = '127.0.0.1';
+options.host = '192.168.50.1';
 options.port = 3050;
 options.database = bancofirebird;
 options.user = 'SYSDBA';
