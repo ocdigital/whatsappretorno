@@ -25,7 +25,7 @@ var con = mysql.createConnection({
   host     : '144.217.100.77',
   user     : 'mga',
   password : 'mg@2017',
-  database : 'whats1'
+  database : 'whats'
 });
 
 
